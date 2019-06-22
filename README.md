@@ -34,7 +34,7 @@ If you want to contribute to our project, please read [CONTRIBUTING.md](https://
 When you have issue, please open your issue [here](https://github.com/CAU-OSS-2019/team-project-team17_verification_program/issues)
 
 ### Pull Request
-We are developing in ¡®develop¡¯ branch.
+We are developing in 'develop' branch.
 1. Fork to your account and modify your changes.
 2. Please [pull request](https://github.com/CAU-OSS-2019/team-project-team17_verification_program/pulls) to corresponding branch.
 
