@@ -15,9 +15,12 @@ A program that verifies Gamehaeduo's **Matching Algorithm**.
 
 
 ## Getting Started with GameHaeDuo Verification
-* You will need Python to run our program. 
-* Once you run the program the program will require the number of users you want to crawl. 
-* The more data the more accurate the verifying process will be. 
+* You will need Python, C++ running environment to use our program. 
+1. Run Makelist.py.Once you run the program the program will require the number of users you want to crawl. 
+(The more data the more accurate the verifying process will be. )
+2. Run verificationUserInfoCrawling.py. This will read the excel files and relocate user info to db server.
+3. Run verification.cpp. Runs our actual matching algorithm
+4. Check the excel file. The data set and our algorithm is comparable easily.
 
 ## Installation
 Write Someting...
