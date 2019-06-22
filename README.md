@@ -1,4 +1,4 @@
-# GameHaeDuo Verication Program
+# GameHaeDuo Verification Program
 A program that verifies Gamehaeduo's **Matching Algorithm**.
 
 ## About GameHaeDuo Verification Program
