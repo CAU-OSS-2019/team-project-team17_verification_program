@@ -1,5 +1,5 @@
 # GameHaeDuo Verication Program
-A program to verifies 'Gamehaeduo' Matching Algorithm.
+A program that verifies Gamehaeduo's **Matching Algorithm**.
 
 ## About GameHaeDuo Verification Program
 Write Someting... like functions
