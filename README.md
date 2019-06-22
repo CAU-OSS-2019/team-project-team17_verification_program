@@ -7,9 +7,9 @@ A program that verifies Gamehaeduo's **Matching Algorithm**.
 * Our original project is [here](https://github.com/CAU-OSS-2019/team-project-team17). 
 
 ### Necessity
-Verification program is needed to show that our project is working correctly.  
-However, since there are not many users at present, it is difficult to prove the accuracy of the matching algorithm through the actual users of Gamehaeduo.  
-Therefore, we made our very own verification program.
+* Verification program is needed to show that our project is working correctly.  
+* However, since there are not many users at present, it is difficult to prove the accuracy of the matching algorithm through the actual users of Gamehaeduo.  
+* Therefore, we made our very own verification program.
 
 
 ### Support Websites
