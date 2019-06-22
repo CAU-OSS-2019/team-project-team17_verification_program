@@ -41,7 +41,7 @@ We are developing in 'develop' branch.
 
 
 ## License
-This project is licensed under the **Apache 2.0**. For more information, see the following file - [LICENSE.md](https://github.com/CAU-OSS-2019/team-project-team17_verification_program/blob/master/LICENSE).
+This project is licensed under the **Apache 2.0**. For more information, see the [LICENSE.md](https://github.com/CAU-OSS-2019/team-project-team17_verification_program/blob/master/LICENSE) file.
 
 
 ## Other Repositories of GameHaeDuo
