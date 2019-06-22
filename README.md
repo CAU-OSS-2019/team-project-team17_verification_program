@@ -20,12 +20,6 @@ Write Someting...
 ## Installation
 Write Someting...
 
-## Other Repositories of GameHaeDuo
-### Client
-https://github.com/CAU-OSS-2019/team-project-team17_client
-
-### Server
-https://github.com/CAU-OSS-2019/team-project-team17_server
 
 ## Contribution
 If you want to contribute to our project, please read [CONTRIBUTING.md](https://github.com/CAU-OSS-2019/team-project-team17_verification_program/blob/master/CONTRIBUTING.md) before contributing.
@@ -41,3 +35,11 @@ We are developing in 'develop' branch.
 
 ## License
 Apache 2.0
+
+
+## Other Repositories of GameHaeDuo
+### Client
+https://github.com/CAU-OSS-2019/team-project-team17_client
+
+### Server
+https://github.com/CAU-OSS-2019/team-project-team17_server
