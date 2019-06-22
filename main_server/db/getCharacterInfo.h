@@ -3,8 +3,13 @@
 
 #include "socket_server.h"
 #include "../../structs/struct.h"
-#include </usr/include/mysql/mysql.h>
 #include <map>
+
+// Included to use MySQL in Windows
+#include <winsock2.h>
+#include <mysql.h>
+#pragma comment(lib, "libmysql.lib")
+//
 
 #define HOST "gamehaeduo-db.c8xdbny5rkis.ap-northeast-2.rds.amazonaws.com"
 #define USERNAME "gamehaeduo"
