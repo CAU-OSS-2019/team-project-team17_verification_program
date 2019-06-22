@@ -1,8 +1,7 @@
 # GameHaeDuo Verication Program
-Write Someting...  
-This is a repository for a program that verifies 'gamehaeduo' matching-algorithm.
+A program to verifies 'Gamehaeduo' Matching Algorithm.
 
-## About GameHaeDuo Verication Program
+## About GameHaeDuo Verification Program
 Write Someting... like functions
 
 ### Necessity
@@ -42,4 +41,3 @@ We are developing in ¡®develop¡¯ branch.
 
 ## License
 Apache 2.0
->>>>>>> veri/verification_Prog
