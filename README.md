@@ -28,7 +28,7 @@ https://github.com/CAU-OSS-2019/team-project-team17_client
 https://github.com/CAU-OSS-2019/team-project-team17_server
 
 ## Contribution
-If you want to contribute to our project, please read [CONTRIBUTING.md](https://github.com/CAU-OSS-2019/team-project-team17_verification_program/blob/develop/CONTRIBUTING.md) before contributing.
+If you want to contribute to our project, please read [CONTRIBUTING.md](https://github.com/CAU-OSS-2019/team-project-team17_verification_program/blob/master/CONTRIBUTING.md) before contributing.
 
 ### Issue
 When you have issue, please open your issue [here](https://github.com/CAU-OSS-2019/team-project-team17_verification_program/issues)
